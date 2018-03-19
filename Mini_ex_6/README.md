@@ -13,3 +13,5 @@ I wanted to make an array of different colors, so the colors would not be comple
 
 This task caused me a lot of frustration, since I had a lot of ideas, but also a lot of trouble while making it. However, it has helped me to get a better understanding of generativity and how it is possible to make. At first you might think it is necesarry to create a complicated and long code, but if you don't wish to make that much happen on the screen, it can be very simple as well. It was a frustrating, yet interesting task to work with generativity, and I definitely think, that the more comfortable you are with coding, the more fun you will have with generativity.
 
+I definitely wanted to create something a lot cooler than this, but even though the outcome might not be what I wanted to make, it helped me get a better feeling of what generativity is and what could be done with it. 
+
