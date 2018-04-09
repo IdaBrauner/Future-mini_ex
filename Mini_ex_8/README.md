@@ -1,4 +1,4 @@
-![screenshot]
+![screenshot](https://github.com/IdaBrauner/Future-mini_ex/blob/master/Mini_ex_8/Cheers.jpg)
 
 https://rawgit.com/IdaBrauner/Future-mini_ex/master/Mini_ex_8/empty-example/index.html
 Notice that the link does not work as it should - probably because Github is not able to access the open weather API that we used. The first screenshot shows the program when it is working; here we see Moscow, Copenhagen and Paris having a temperature between 10-20 degrees celsius, and London having between 0-10 degrees celsius.
