@@ -1,5 +1,7 @@
 ![screenshot]
 
+https://rawgit.com/IdaBrauner/Future-mini_ex/master/Mini_ex_8/empty-example/index.html
+
 Who are you collaborate with? I am collaborating with Sara. 
 "Cheers"
 A screenshot of your program
