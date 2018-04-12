@@ -1,4 +1,7 @@
 ![flow](https://github.com/IdaBrauner/Future-mini_ex/blob/master/Mini_ex_9a/flowchart%20API.jpg)
+What may be the difficulty in drawing the flow chart?
+
+I have chosen to create a flowchart of the mini_ex_8 1[mini_ex_8](https://github.com/IdaBrauner/Future-mini_ex/tree/master/Mini_ex_8)
 
 ![cat](https://github.com/IdaBrauner/Future-mini_ex/blob/master/Mini_ex_9a/pussycat.jpg)
 
@@ -18,3 +21,7 @@ In the first project “Pussy Grabs Back”, some of the possible technical chal
 In our second project, we want to use two different API’s; one that collects the headlines of news articles that focuses on pollution and the consequences we see in the world around us; and a second one that contains exact numbers and data regarding the topic of pollution. A technical challenge here will definitely be to, first of all find API’s with this sort of data that we are able to access, and secondly, we might encounter some problems when uploading the program (just like how the security around the weather API we used for mini_ex8 prevented our programs from executing as they should). 
 Another technical difficulty will occur when the API-data increases - we have to be very calculated in terms of how much the “garbage island” should grow. This probably requires some experimenting in terms of investigating how much the level of pollution actually grows, and how we can reflect and put emphasis on this in our program. 
 
+
+Individual: How is this flow chart different from the one that you had in #2 (in terms of the role of a flow chart)?
+
+Individual: If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms? (see if you could refer to the text and articulate your thoughts?)
