@@ -1,7 +1,11 @@
 ![flow](https://github.com/IdaBrauner/Future-mini_ex/blob/master/Mini_ex_9a/flowchart%20API.jpg)
-What may be the difficulty in drawing the flow chart?
+
 
 I have chosen to create a flowchart of the mini_ex_8 1[mini_ex_8](https://github.com/IdaBrauner/Future-mini_ex/tree/master/Mini_ex_8)
+
+The difficulty in creating a flowchart for this specific mini_ex, was the fact that we had chosen to use more than 1 API, but since they all work the same I chose to just show 1 of the APIs and how we used it. 
+After this decision, it was easier to picture how the flowchart should be drawn. I do however sometimes find it difficult to determine what kind of box to use and which parts of the code to include, but I think that if you practice it more it will be easier.
+
 
 ![cat](https://github.com/IdaBrauner/Future-mini_ex/blob/master/Mini_ex_9a/pussycat.jpg)
 
@@ -22,6 +26,12 @@ In our second project, we want to use two different API’s; one that collects t
 Another technical difficulty will occur when the API-data increases - we have to be very calculated in terms of how much the “garbage island” should grow. This probably requires some experimenting in terms of investigating how much the level of pollution actually grows, and how we can reflect and put emphasis on this in our program. 
 
 
-Individual: How is this flow chart different from the one that you had in #2 (in terms of the role of a flow chart)?
+* Individual: How is this flow chart different from the one that you had in #2
 
-Individual: If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms? (see if you could refer to the text and articulate your thoughts?)
+The first flowchart is more focused on the code I would say, since it is created by looking at the specific code and the two others are created from an idea and are therefore more focused on how it might look on the screen. I would definitely say, that the proces is different when you already have a code.
+
+* If you have to bring the concept of algorithms from flow charts to a wider cultural context, how would you reflect the notion of algorithms?
+
+A flowchart made from an algorithm is in some way an instruction to how the algorithm works, without it being in a technical way. The flowchart does not describe what is written in the code but what the effect of the code written is. This can help people understand better how much of our lives are actually influences by algorithms. To create more awareness about where and how algorithms work in our lives, you could start implementing more flowcharts on fx. a website like Netflix, Instagram and so on. This could help clarify how alot of things work and perhaps help dis-mystify alot of the things connected to computation. 
+
+At the same time, this could help educate people in perhaps staying more critical towards big companies like Google, Facebook and so on, because people might realise how many of the things we use, read, watch and listen to are determined by an algorithm. I found it quite interesting,that the search results vary a big deal based on who you are and what you have previously been searching for. There is an algorithm controlling what is defined as "most relevant" for you. This is quite alarming to me, because this might also prevent people from getting a different view on things, and they might tend to just get confirmed in what they already believe in, instead of getting new or different inputs. Especially in these times where there seems to be alot of hatred in the world, algorithms like this plays an essential role in creating and intensify this tendency. 
